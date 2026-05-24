@@ -441,6 +441,7 @@ Some will enjoy [analyzing images](https://29a.ch/photo-forensics/#forensic-magn
 
 - [Open-Source Intelligence (OSINT) Reconnaissance](https://z3r0trust.medium.com/open-source-intelligence-osint-reconnaissance-9f0bafd672b2)
 - [A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection)
+- [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard for maritime and airspace analysis.
 - [This page is for anyone who loves open source investigating](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 - [Start.me + OSINT](https://start.me/p/Pwy0X4/osint-inception)
 - [Open-Source Intelligence (OSINT) in 5 Hours - Full Course - Learn OSINT!](https://youtu.be/qwA6MmbeGNo)
